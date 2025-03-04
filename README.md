@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NZABERA Mike Peter</h1>
 
 <a href="https://github.com/yournewusername">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative%20Developer;Expert%20in%20Web%20and%20Mobile;3%2B%20Years%20of%20Hands-on%20Experience;Exploring%20New%20Tech%20Daily&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative%20Developer;Expert%20in%20Web%20and%20Mobile;4%2B%20Years%20of%20Hands-on%20Experience;Exploring%20New%20Tech%20Daily&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
 </a>
 <h3 align="center">A passionate Developer with a focus on Web, Mobile, AI, and Machine Learning technologies</h3>
 
